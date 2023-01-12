@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm BenDevweb</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on [Openclassrooms](https://openclassrooms.com/fr/paths)
+- 🔭 I recently worked at [Openclassrooms](https://openclassrooms.com/fr/paths)
 
 - 🌱 I’m currently learning **programming and web3 development**
 
